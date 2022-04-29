@@ -35,3 +35,8 @@ h1{
     border-color: rgb(55, 0, 0);
     color: whitesmoke;
 }
+
+#salvar{
+    color: black;
+    text-align: center;
+}
