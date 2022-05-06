@@ -9,6 +9,7 @@
 </head>
 <body>
 <h1>SGLanchonete 1.0</h1>
+<h2>CADASTRO DE PRODUTOS</h2>
 <form method="POST" action="cadastra-produtos.php">
 <label>Produto:</label><input type="text" name="produto" id="produto"><br>
 <label>Preço:</label><input type="text" name="preco" id="preco"><br>
